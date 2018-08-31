@@ -1,0 +1,350 @@
+ID;Geburtstag;Email_Addresse;Ansprechpartner (Vorname);Insurance;Letzter Rechnungsbetrag (€);Ansprechpartner (Nachname);Ansprechpartner;Ansprechpartner (Telefon);private_insurance
+1000011;1976-01-31;Ebert@BNP_aribas_SA..de;Bernhard;AOK;533,36;Ebert;1000011;#;0
+1000012;1953-12-25;Klingler-Wolf@BNP_aribas_SA..de;Doris;AOK;347,07;Klingler-Wolf;1000012;#;0
+1000013;1953-03-01;Waldmüller@BNP_aribas_SA..de;Gabi;AOK;270,07;Waldmüller;1000013;+49 911 369-2440;0
+1000014;1973-01-29;Tepel@BNP_aribas_SA..de;Jörg;AOK;578,58;Tepel;1000014;#;0
+1000015;1973-01-13;Nussbaum@BNP_aribas_SA..de;Susanne;AOK;476,68;Nussbaum;1000015;#;0
+1000016;1997-06-28;Macher@BNP_aribas_SA..de;Thomas;AOK;240,73;Macher;1000016;#;0
+1000017;1981-12-21;Schopen@Air_iquide_Deutschland_GmbHde;Ute;AOK;381,9;Schopen;1000017;+49 211 6699 305;0
+1000018;1958-04-05;Freygang@Adids_AGde;Jürgen;AOK;484,73;Freygang;1000018;#;0
+1000019;1968-07-04;Masch@agipan_GmbHde;Edgar;AOK;883,35;Masch;1000019;+49 (208) 9925 330;0
+1000020;1952-06-03;Travnicek@Adids_AGde;Volkmer;AOK;335,32;Travnicek;1000020;+49 9132 84-2357;0
+1000021;1995-09-20;Ruckel@Aaren_AGde;Johannes;AOK;601,46;Ruckel;1000021;+49 6131-301926;0
+1000022;1972-10-23;Krusemarck@Aaren_AGde;Ralph;AOK;20,99;Krusemarck;1000022;+49 6131-301213;0
+1000025;1963-04-15;Heise@AIRBS_SA.S..de;Clemens;AOK;287,95;Heise;1000025;+49 (421) 5 38 58 48;0
+1000026;1972-01-09;Dreher@AIRBS_SA.S..de;Oliver;AOK;302,37;Dreher;1000026;+49 (40) 743 73165;0
+1000027;1990-05-07;Wilharm@AIRBS_SA.S..de;Petra;AOK;636,42;Wilharm;1000027;+49 40 5076 2331;0
+1000028;1987-04-11;Zintzen@Aixton_AGde;Bernhard;AOK;170,93;Zintzen;1000028;+49 (241) 8909 3772;0
+1000029;1949-06-08;Schapdick@Aixton_AGde;Ralf;AOK;116,33;Schapdick;1000029;+49 241 8909 428;0
+1000030;1950-10-13;Beckmann@Allinz_Global_Investorsde;Joerg;AOK;136,99;Beckmann;1000030;+49 (69) 263 14659;0
+1000031;1965-09-25;U. Berquet@Amwa_GmbHde;Matthias;AOK;492;U. Berquet;1000031;+49 89 80094 133;0
+1000032;1978-02-17;Lachermeier-Seifert@Amwa_GmbHde;Michael;AOK;212,69;Lachermeier-Seifert;1000032;+49 89 80094 511;0
+1000033;1950-12-09;Steinfartz@anyWRE_AGde;Michael;AOK;939,33;Steinfartz;1000033;+49 6131 965 9650;0
+1000034;1995-10-02;Volkmar@Bundsagentur_für_Arbeitde;Matthias;AOK;497,98;Volkmar;1000034;+49 991 179 2975;0
+1000035;1965-06-17;Hüttner@ASM_S_(Siemens_AG)de;Stefan;AOK;349,38;Hüttner;1000035;+49 (89) 20800-43473;0
+1000036;1975-10-01;Dräger@AstrZeneca_GmbHde;Marco;AOK;769,85;Dräger;1000036;+49 (4103) 708-3901;0
+1000037;1989-09-24;Röpke@AstrZeneca_GmbHde;Michael;AOK;361,67;Röpke;1000037;+49 (4103) 708-3105;0
+1000038;1955-08-04;Piotrowski@AstrZeneca_GmbHde;Siegbert;AOK;817,28;Piotrowski;1000038;+49 (4103) 708-3103;0
+1000039;1988-09-21;Tröger@AT-Dsignde;André;AOK;343,42;Tröger;1000039;+49 911 3400 450;0
+1000040;1976-10-01;Ruge@ATOS_Software_AGde;Matthias;AOK;994,22;Ruge;1000040;+49 (89) 42771 195;0
+1000041;1952-04-14;Krüger@AudiAGde;Claus;AOK;895,52;Krüger;1000041;+49 (841) 89 90900;0
+1000042;1981-03-17;Schuderer@AudiAGde;Gerhard;AOK;88,96;Schuderer;1000042;+49 (841) 89 45101;0
+1000043;1961-12-18;Schneider@AudiAGde;Hubert;AOK;195,13;Schneider;1000043;+49 (841) 8935712;0
+1000044;1964-06-08;Schäffler@AudiAGde;Stephan;AOK;106,27;Schäffler;1000044;+49 (841) 89-45801;0
+1000045;1964-07-24;Bernet@AXA_interthurde;Urs;AOK;256,34;Bernet;1000045;+41 (52) 261 43 38;0
+1000046;1993-11-03;Scholz@B_Braun_Melsungen_AG.de;David;AOK;299,68;Scholz;1000046;+49 56 61 71-1173;0
+1000047;1994-03-19;Schade@BAHA_AGde;Arno;AOK;786,03;Schade;1000047;+49 (621) 3905-680;0
+1000048;1950-01-12;Salewski@BASFIT_Services_GmbHde;Günter;AOK;638,26;Salewski;1000048;#;0
+1000049;1983-10-14;Gehl@BASFIT_Services_GmbHde;Martin;AOK;633,28;Gehl;1000049;+49 621 60-58616;0
+1000050;1996-08-10;Tiedeke@Baumr_Electric_AGde;Joachim;AOK;312,3;Tiedeke;1000050;+41 (52) 728 13 66;0
+1000051;1997-05-07;Döring@Baumr_Optronic_GmbHde;Andreas;AOK;401,95;Döring;1000051;+49 3528 4386 31;0
+1000052;1949-12-18;Seiffert@Baxtr_Deutschland_GmbHde;Carsten;AOK;844,53;Seiffert;1000052;+49 89 31701-467;0
+1000053;1983-10-24;Strigl@Bayeisches_Landesamt_für_Statistikde;Herbert;AOK;355,41;Strigl;1000053;+49 (89) 2119-316;0
+1000054;1971-04-15;Schönfeld@Bayeisches_Landesamt_für_Statistikde;Kurt;AOK;900,57;Schönfeld;1000054;+49 (89) 2119-647;0
+1000055;1971-02-23;Ellermann@Beiesdorf_AGde;Uwe;AOK;297,52;Ellermann;1000055;+49 (40) 49090;0
+1000056;1953-07-25;Burmeister@Berln_Institute_of_Technologyde;Rodger;AOK;795,58;Burmeister;1000056;+49 30 314 73286;0
+1000057;1948-07-21;Prox@Berlner_Verkehrsbetriebe_(BVG)de;Carsten;AOK;895,82;Prox;1000057;+49 (30) 256-28418;0
+1000058;1972-01-17;Stoffels@Berlner_Verkehrsbetriebe_(BVG)de;Ralf;AOK;34,66;Stoffels;1000058;+49 (30) 256-28422;0
+1000059;1956-12-16;Seifert@Bertandt_Services_GmbHde;Falk;AOK;153,12;Seifert;1000059;+49 (6134) 2566-701;0
+1000060;1953-02-18;Smischek@BetaSystems_Software_AGde;Gerhard;AOK;97,37;Smischek;1000060;+49 (821) 7941 308;0
+1000061;1964-01-21;Schindler@BetaSystems_Software_AGde;Volker;AOK;688,18;Schindler;1000061;+49 (821) 7941 406;0
+1000062;1980-08-20;Paffrath@Bewoec_GmbHde;Hans-Jörg;AOK;235,82;Paffrath;1000062;+49 2205 89 64 181;0
+1000063;1948-09-10;Bronninger@BMW_Gde;Robert;AOK;294,98;Bronninger;1000063;+49 89 382 58869;0
+1000064;1991-01-10;Quassowski@BMW_Gde;Sven;AOK;128,43;Quassowski;1000064;+49 (89) 382 37987;0
+1000065;1981-12-19;Teichmann@BRANAD_Systems_AGde;Bodo;AOK;4,11;Teichmann;1000065;+49 911 756658-26;0
+1000066;1989-11-24;Lewerenz@Branenburgische_Technische_Universitätde;Claus;AOK;631,24;Lewerenz;1000066;+49 (355) 69-3880;0
+1000067;1977-07-03;Sarnowski@BROCHAUS_AGde;Mike;AOK;19,31;Sarnowski;1000067;+49 (231) 9875-0;0
+1000068;1964-11-26;Petermann@Brukr_Optik_GmbHde;Werner;AOK;574,43;Petermann;1000068;+49 7243 504-854;0
+1000069;1991-10-13;Holtzmann@BSS_eiersdorf_Shared_Services_GmbHde;Hans-Joachim;AOK;930,18;Holtzmann;1000069;+49 (40) 4909 3788;0
+1000070;1961-09-09;Meissl@BT_(ermany)_GmbH_&_Co_oHG.de;Sigi;AOK;562,29;Meissl;1000070;+49 (89) 2600 8188;0
+1000071;1949-07-14;Winkelhöfer@Bundsdruckereide;Jörg;AOK;222,47;Winkelhöfer;1000071;+49 3025982590;0
+1000073;1965-03-22;Pletat@Bundsministerium_für_Gesundheitde;Heiko;AOK;360,11;Pletat;1000073;+49 (30) 18441 3753;0
+1000074;1983-08-25;Bach@BVG__Anstalt_öffentlichen_Rechtsde;Kai;AOK;253,06;Bach;1000074;+49 (30) 256 20217;0
+1000075;1962-04-06;Pörschke@BVV_G..de;Frank;AOK;598,04;Pörschke;1000075;+49 (30) 89601 450;0
+1000076;1971-04-15;Endres@Cassni_Consulting_Frankfurt_GmbHde;Thomas;AOK;772,23;Endres;1000076;#;0
+1000077;1990-11-09;Hatebur@CATde;Helmut;AOK;773,21;Hatebur;1000077;+49 (5361) 9-71067;0
+1000078;1980-10-14;W. Luellemann@CATde;Solms;AOK;140,4;W. Luellemann;1000078;+49 5116740514;0
+1000079;1996-09-03;Lips@ciroec_GmbHde;Peter;AOK;495,25;Lips;1000079;+49 (7131) 59455-61;0
+1000080;1977-06-12;Ruch@CocaCola_CCEAGde;Mattias;AOK;170,71;Ruch;1000080;+49 (30) 9204-1564;0
+1000081;1982-10-25;Podebrad@Commrzbank_AGde;Igor;AOK;662,57;Podebrad;1000081;+49 (69) 136 40630;0
+1000082;1957-12-25;Witte@concptq_GmbHde;Kai;AOK;698,75;Witte;1000082;+49 (5361) 6096100;0
+1000083;1995-08-19;Lindner@Contnental_VDO_Automotivede;Oliver;AOK;677,64;Lindner;1000083;+49 941-790 8286;0
+1000084;1998-03-17;Tursch@Condto_GmbHde;Sabine;AOK;277,6;Tursch;1000084;+49 (30) 8020875 15;0
+1000085;1949-09-29;Benner@Contnental_Teves_AG_&_Co_oHG.de;Sebastian;AOK;960,51;Benner;1000085;+49 69 7603 8685;0
+1000086;1984-02-23;Kolodziejczak@Contnental_Automotive_Systems_Electricde;Zenon;AOK;912,4;Kolodziejczak;1000086;+49 (30) 34008-693;0
+1000087;1952-11-16;Oehlen@ConVsta_Consulting_AGde;Bernd;AOK;794,57;Oehlen;1000087;+49 (221) 88826-417;0
+1000088;1994-12-05;Kemper@ConVsta_Consulting_AGde;Helmut;AOK;809,92;Kemper;1000088;+49 (221) 888 26-449;0
+1000089;1998-09-29;Heimbach@Coopr_Standard_Automotivede;Bernd;AOK;175,82;Heimbach;1000089;+49 7394 242-308;0
+1000090;1949-04-06;Findeisen@Copeion_Werner_&_Pfleidererde;Hans-Juergen;AOK;839,25;Findeisen;1000090;+49 (711) 897-2418;0
+1000091;1952-04-26;Burkhardt@Copeion_Werner_&_Pfleidererde;Sigurd;AOK;418,41;Burkhardt;1000091;#;0
+1000092;1969-05-07;Willig@Critcal_Systemsde;Christian;AOK;356,56;Willig;1000092;+49 621 4546-565;0
+1000093;1988-11-30;Bornheim@Cros_Match_Technologies_GmbHde;Roland;AOK;8,94;Bornheim;1000093;+49 3641 4297-22;0
+1000094;1971-11-16;Rodrigo@Csecre_AGde;Dipl. -Ing. Paul E.;AOK;299,23;Rodrigo;1000094;+49 221-3 980455;0
+1000096;1982-07-16;Krieger@Daimer_Financial_Services_AGde;Armin;AOK;691,95;Krieger;1000096;+49 711 25745738;0
+1000097;1982-07-13;Leutnant@Daimer_AGde;Christian;AOK;589,17;Leutnant;1000097;+49 70319087757;0
+1000098;1966-10-30;Heger@Daimer_AGde;Christoph;AOK;653,7;Heger;1000098;#;0
+1000099;1972-12-02;Dombrowski@Daimer_AGde;Dirk;AOK;894,62;Dombrowski;1000099;#;0
+1000100;1965-11-29;Hüttel@Daimer_AGde;Heiko;AOK;382,88;Hüttel;1000100;+49 7111770213;0
+1000101;1993-03-12;Burchardt@Daimer_AGde;Jan;AOK;595,22;Burchardt;1000101;#;0
+1000102;1988-10-03;Boll@Daimer_AGde;Matthias;AOK;451,49;Boll;1000102;+49 70319074681;0
+1000103;1986-06-13;Jung@Daimer_AGde;Matthias;AOK;757,04;Jung;1000103;+49 7111796188;0
+1000104;1951-05-06;Huettenberger@Daimer_AGde;Michael;AOK;396,91;Huettenberger;1000104;+49 7111749042;0
+1000105;1954-03-17;Biber@Daimer_AGde;Sascha;AOK;806,89;Biber;1000105;#;0
+1000106;1971-07-25;Stumböck@Daimer_AGde;Thomas;AOK;651,65;Stumböck;1000106;+49 70319071853;0
+1000107;1990-06-23;Bangel@DB_Sstel_GmbHde;Michael;AOK;109,32;Bangel;1000107;+49 (69) 26552736;0
+1000108;1966-01-07;Mairose@DB_Vrtrieb_GmbHde;Stefan;AOK;892,81;Mairose;1000108;+49 69 265 40914;0
+1000109;1992-07-21;Rappold@DB_Vrtrieb_GmbHde;Torsten;AOK;327,78;Rappold;1000109;+49 (69) 265-40910;0
+1000110;1974-11-30;Herold@Deutche_Bahn_AGde;Natalya;AOK;20,63;Herold;1000110;+49 6926552514;0
+1000111;1976-11-19;Brunow@Deutche_Bahn_AGde;Peter;AOK;422,24;Brunow;1000111;+49 3029756646;0
+1000112;1980-10-05;Schön@Deutche_Bank_AGde;Michael;AOK;2,99;Schön;1000112;+49 69 910 66357;0
+1000113;1968-12-19;Pazelt@Deutche_Rentenversicherung_Bundde;Michael;AOK;732,76;Pazelt;1000113;+49 (30) 865 60901;0
+1000114;1980-08-04;Herrmann@Deutche_Rentenversicherung_Bundde;Tom;AOK;527,06;Herrmann;1000114;+49 (30) 865 35704;0
+1000115;1991-05-01;Böttcher@Deutches_Patent-_und_Markenamtde;Robert;AOK;392,91;Böttcher;1000115;+49 (36 41) 40-57 70;0
+1000116;1997-04-04;Römer@DFS_eutsche_Flugsicherung_GmbHde;Angelika;AOK;110,74;Römer;1000116;+49 3074306150;0
+1000117;1997-02-25;Ludwig@DHC_r_Herterich_&_Consutants_GmbH.de;Doris;AOK;569,8;Ludwig;1000117;+49 681 936660;0
+1000118;1982-11-18;Troupeau@DHL_lobal_Forwarding_UKde;Pascal;AOK;155,02;Troupeau;1000118;+44 (1344) 744282;0
+1000119;1956-05-24;Schaser@DHL_ub_Leipzig_GmbHde;Andreas;AOK;210,33;Schaser;1000119;+49 341 4499 6600;0
+1000120;1956-10-13;Schramm@Dila_Intelcom_GmbHde;Uwe;AOK;680,75;Schramm;1000120;+49 (30) 773092-540;0
+1000121;1955-12-03;Vorbrodt@DIN_V..de;Moritz;AOK;493,35;Vorbrodt;1000121;+49 3026012649;0
+1000122;1955-04-01;Neske@discunt24_GmbH_&_Co_KG.de;Benjamin;AOK;758,47;Neske;1000122;+49 40650625408;0
+1000123;1970-09-14;Lungwitz@DKB_rundbesitzvermittlung_GmbHde;Jessica;AOK;206,39;Lungwitz;1000123;+49 341 711 71 256;0
+1000124;1972-10-10;Brückner@dicoium_digital_solutions_GmbHde;Christian;AOK;398,22;Brückner;1000124;+49 (711) 601747-397;0
+1000125;1956-07-11;Elsässer@dicoium_digital_solutions_GmbHde;Daniel;AOK;135,78;Elsässer;1000125;#;0
+1000126;1966-11-08;Nolte@dSPAE_GmbHde;Bernhard;AOK;731,25;Nolte;1000126;+49 5251 1638-1580;0
+1000127;1955-05-08;Schuengel@Eart_Television_Technology_GmbHde;Ralf;AOK;677,94;Schuengel;1000127;+49 89 208 06-850;0
+1000128;1954-03-23;Wasserer-Foerg@edco_Software_&_Consulting_GmbHde;Anneliese;AOK;327,02;Wasserer-Foerg;1000128;+49 (89) 38408569;0
+1000129;1953-06-18;Wodrich@ElanComputing_(Deutschland)_GmbHde;Jens;AOK;117,84;Wodrich;1000129;+49 40 63 60 75 25;0
+1000130;1952-10-15;Zeiner@Elekroschaltanlagen_Grimma_GmbHde;Ulrich;AOK;977,02;Zeiner;1000130;+49 (3437) 92 11-166;0
+1000131;1961-10-16;Mockel@EnBWSysteme_Infrastruktur_Supportde;Frederic;AOK;69,05;Mockel;1000131;+49 (7 21) 63 12484;0
+1000132;1974-10-17;Fedkte@Enge_&_Völkersde;Alexander;AOK;295,53;Fedkte;1000132;+49 (40) 3 61 31-3 10;0
+1000133;1948-07-05;Billens@ERGOVersicherungde;Armin;AOK;615,47;Billens;1000133;+49 211 4775116;0
+1000134;1993-08-09;Bültner@Ericson_Telekommunikationde;Björn;AOK;422,8;Bültner;1000134;#;0
+1000135;1995-10-18;Lifka@Ericson_Telekommunikationde;Britta;AOK;114,3;Lifka;1000135;#;0
+1000136;1985-06-14;Amberg@Ericson_Telekommunikationde;Caroline;AOK;98,03;Amberg;1000136;+49 69 2383-3061;0
+1000137;1964-04-28;Witting@Ericson_Telekommunikationde;Martin;AOK;967,09;Witting;1000137;#;0
+1000138;1966-07-16;Fornhoff@Ericson_Telekommunikationde;Oliver;AOK;252,8;Fornhoff;1000138;#;0
+1000140;1956-06-21;Alchimov@Ericson_Telekommunikationde;Sergej;AOK;65,93;Alchimov;1000140;#;0
+1000141;1987-03-18;Adler@Ericson_Telekommunikationde;Thomas;AOK;320,73;Adler;1000141;#;0
+1000142;1972-03-31;Sievers@eSaiors_IT_Solutions_GmbHde;Marco;AOK;282,74;Sievers;1000142;+49 40 8090503-359;0
+1000143;1989-07-06;Benfeldt@Eule_Hermes_Kreditversicherungs-AGde;Jonny;AOK;315,87;Benfeldt;1000143;+49 (40) 8834-1985;0
+1000144;1987-06-20;Hessberger@Faurcia_-_GIS_-_IT_Infrastrucde;Ralf;AOK;393,63;Hessberger;1000144;#;0
+1000145;1968-02-01;Bork@Fest_AG_&_CoKG.de;Tilmann;AOK;923,53;Bork;1000145;+49 (30) 56702026;0
+1000146;1992-05-05;Gebhardt@FH_Achende;Anderas;AOK;399,91;Gebhardt;1000146;+49 241 6009 52918;0
+1000147;1960-10-01;Schlingloff@FhG-IRSTde;Bernd-Holger;AOK;177,92;Schlingloff;1000147;+49 (30) 6392 1907;0
+1000148;1993-05-21;Taphorn@Finazinformatik_Hannoverde;Franz-Josef;AOK;253,41;Taphorn;1000148;+49 (511) 5102-21691;0
+1000149;1969-12-08;Heidemann@Finazinformatik_Hannoverde;Marc;AOK;721,23;Heidemann;1000149;+49 (511) 5102-2 23 51;0
+1000150;1971-07-30;Fladrich@Fladich_Consultingde;Gerd;AOK;136,23;Fladrich;1000150;+49 8121 7 37 11;0
+1000151;1988-11-23;von Stackelberg@Fortfy_ASCde;Arved;AOK;67,78;von Stackelberg;1000151;+49 8122 999443;0
+1000152;1981-09-09;Bustani@FourIn.One_Network.de;Euphemia;AOK;586,54;Bustani;1000152;+49 (511) 64 66 79 70;0
+1000153;1980-03-02;Meyer@Fox_obile_Groupde;Bernd;AOK;503,12;Meyer;1000153;#;0
+1000154;1993-08-18;Grundmann@Fox_obile_Groupde;Felix;AOK;454,95;Grundmann;1000154;+49 (30) 69538 5624;0
+1000155;1967-01-27;Nicklisch@Fox_obile_Groupde;Jan;AOK;519,66;Nicklisch;1000155;+49 (30) 69538 1148;0
+1000156;1957-08-26;Shi@FP_IovoLabs_GmbHde;Christoph;AOK;313,77;Shi;1000156;+49 (3303) 525 357;0
+1000157;1979-09-10;Bleumer@Franotyp-Postalia_GmbHde;Gerrit;AOK;80,44;Bleumer;1000157;+49 3303 525-683;0
+1000158;1974-04-21;Großmann@Frauhofer_FOKUSde;Jürgen;AOK;292,23;Großmann;1000158;+49 (30) 3463-7390;0
+1000159;1979-01-26;Burghardt@Frauhofer_Institut_Firstde;Jochen;AOK;559,19;Burghardt;1000159;+49 (30) 6392-1867;0
+1000160;1988-07-17;Fischer@Fresnius_Netcare_GmbHde;Dirk;AOK;598,42;Fischer;1000160;+49 6172 608-5507;0
+1000161;1993-12-26;Freund@FREUD-ITde;Hans-Peter;AOK;954,35;Freund;1000161;+49 8232 71683;0
+1000162;1977-12-15;Binderbauer@G_&__Bankensoftware_AGde;Christian;AOK;577,34;Binderbauer;1000162;+49 30-884 59 10;0
+1000163;1968-08-22;Bleil@G_&__Bankensoftware_AGde;Rainer;AOK;811,05;Bleil;1000163;+49 (30) 884591-20;0
+1000164;1977-02-04;Hertlein@G_&__Bankensoftware_AGde;Steffen;AOK;662,03;Hertlein;1000164;+49 30-884 59 10;0
+1000165;1993-05-25;Franz@G_Muth_Partners_GmbH.de;Klaus;AOK;411;Franz;1000165;+49 6122 5981-0;0
+1000166;1962-11-23;Günther@GABOmbH_&_Co_KG.de;Andreas;AOK;47,29;Günther;1000166;+49 89 785 90-37;0
+1000167;1971-09-06;Heine@GAI_etConsult_GmbHde;Stefan;AOK;638,16;Heine;1000167;+49 30417898201;0
+1000168;1966-06-03;Netzband@GISAGmbHde;Michael;AOK;6,9;Netzband;1000168;+49 345 585-0;0
+1000169;1980-07-11;Kohler@Googe_Enterprise_EMEAde;Lutz;AOK;54,03;Kohler;1000169;+49 89 839309114;0
+1000170;1977-03-08;Cichonczyk@ewocn_Advisory_GmbHde;Alexander;AOK;797,52;Cichonczyk;1000170;+49 (711) 901118-13;0
+1000171;1968-01-15;Mollin@ewocn_Advisory_GmbHde;Tobias Marc-Oliver;AOK;361,11;Mollin;1000171;+49 (711) 901118-13;0
+1000173;1966-05-02;Hasse@GS_Sftware_AGde;Ingo;AOK;992,27;Hasse;1000173;+49 (231) 975077 0;0
+1000174;1970-09-27;Nümann@H&D_nternational_Groupde;Dennis;AOK;664,37;Nümann;1000174;+49 30 5371 960-0;0
+1000175;1960-11-10;Tabert@H&T_reenline_GmbHde;Jürgen;AOK;268,51;Tabert;1000175;+49 3309337891;0
+1000176;1956-06-06;Panckow@Hambrger_Pensionsverwaltung_eGde;J.;AOK;512,25;Panckow;1000176;+49 40 280 145 601;0
+1000177;1950-03-14;Böhlen@Hauf-Lexware_Real_Estate_AGde;Anna;AOK;690,72;Böhlen;1000177;+49 49 5207 9142-0;0
+1000178;1954-08-26;Meurer@Hauf-Lexware_Real_Estate_AGde;Volker;AOK;608,66;Meurer;1000178;+49 5207 9142-60;0
+1000179;1962-06-17;Alsbih@Hauf-Lexware_GmbH_&_Co_KG.de;Amir;AOK;58,1;Alsbih;1000179;+49 761 8985-011;0
+1000180;1951-09-01;Paulsen@Hauf-Lexware_GmbH_&_Co_KG.de;Andreas;AOK;209,29;Paulsen;1000180;+49 761 8985345;0
+1000181;1957-10-31;Gebhardt@Hauf-Lexware_GmbH_&_Co_KG.de;Ebeling;AOK;36,53;Gebhardt;1000181;+49 (761) 898 5383;0
+1000182;1977-06-21;Spiegel@Hauf-Lexware_GmbH_&_Co_KG.de;Frank;AOK;819,82;Spiegel;1000182;+49 761 898 5115;0
+1000183;1981-07-15;Krebs@Hauf-Lexware_GmbH_&_Co_KG.de;Johannes;AOK;546,75;Krebs;1000183;+49 761 8985666;0
+1000184;1996-04-20;Lobreyer@Hauf-Lexware_GmbH_&_Co_KG.de;Markus;AOK;33,82;Lobreyer;1000184;+49 761 8985 839;0
+1000185;1994-12-26;Bock@Hauf-Lexware_GmbH_&_Co_KG.de;Mathias;AOK;124,57;Bock;1000185;+49 761 898-5813;0
+1000186;1956-04-02;Kienzler@Hauf-Lexware_GmbH_&_Co_KG.de;Michael;AOK;492,09;Kienzler;1000186;+49 761 898 3020;0
+1000187;1976-02-26;Riesterer@Hauf-Lexware_GmbH_&_Co_KG.de;Rolf;AOK;17,87;Riesterer;1000187;#;0
+1000188;1985-12-18;Rymkuß@Hauf-Lexware_GmbH_&_Co_KG.de;Uwe;AOK;207,7;Rymkuß;1000188;+49 761 8985-117;0
+1000189;1994-09-03;Banach@HDI-erling_Sach_Serviceholding_AGde;Christiane;AOK;99,71;Banach;1000189;+49 (511) 645 4955;0
+1000190;1962-05-28;Wille@HDI-erling_Sach_Serviceholding_AGde;Torsten;AOK;521,09;Wille;1000190;+49 (511) 645 1833;0
+1000191;1987-05-19;Volkmer@Heidlberger_Lebensversicherung_AGde;Eberhard;AOK;552,4;Volkmer;1000191;+49 (6221) 8722183;0
+1000192;1977-01-15;Panzer@Heidlberger_Lebensversicherung_AGde;Oliver;AOK;856,15;Panzer;1000192;+49 (6221) 8722034;0
+1000193;1953-05-18;Philipp@Heidlberger_Lebensversicherung_AGde;Peter;AOK;633,89;Philipp;1000193;+49 (6221) 872000;0
+1000194;1959-07-19;Brüwer@Hellann_Worldwide_Logisticsde;J.;AOK;52,89;Brüwer;1000194;+49 541 6051718;0
+1000195;1981-05-15;Hinrichs@Hellann_Worldwide_Logisticsde;Jens;AOK;731,81;Hinrichs;1000195;+49 541 6051848;0
+1000196;1973-07-19;Ortner@Hewltt-Packard_Gesm.b.H..de;Christoph;AOK;337,29;Ortner;1000196;+43 (1) 81118-6328;0
+1000197;1973-10-10;Korpitsch@Hewltt-Packard_Ltd.de;Christina Maria;AOK;276,95;Korpitsch;1000197;+44 (1344) 366 827;0
+1000198;1981-12-16;Eitel@Hewltt-Packard_Ltd.de;Jeffrey;AOK;636,54;Eitel;1000198;+41 (44) 200 4140;0
+1000199;1949-08-03;Püst@HHLAHamburger_Hafen_und_Logistik_AGde;Jasmin;AOK;444;Püst;1000199;+49 (40) 3088 3743;0
+1000200;1988-05-17;Kazakova-Frehse@HHLAHamburger_Hafen_und_Logistik_AGde;Naire;AOK;773,31;Kazakova-Frehse;1000200;+49 (40) 30883426;0
+1000201;1993-10-16;Meyer@HHLAHamburger_Hafen_und_Logistik_AGde;Thorsten;AOK;755,33;Meyer;1000201;+49 (40) 30883371;0
+1000202;1992-08-13;Haug@HOTE_RESERVATION_SERVICEde;Christian;AOK;542,74;Haug;1000202;+49 221 2077 2590;0
+1000203;1992-12-12;Behrschmidt@HOTE_RESERVATION_SERVICEde;Katja;AOK;618,71;Behrschmidt;1000203;+49 221 2077-3450;0
+1000204;1979-05-19;Haelsig@HOTE_RESERVATION_SERVICEde;Michael;AOK;578,48;Haelsig;1000204;#;0
+1000205;1961-11-30;Krüger@Hypoort_AGde;Michael;AOK;514,71;Krüger;1000205;+49 30420862200;0
+1000206;1973-03-03;Mosch@UniCeditde;Alexander;AOK;754,74;Mosch;1000206;+49 89 378-29099;0
+1000207;1967-05-02;Rueffler@ib-bnk-systems_GmbHde;Dieter;AOK;785,65;Rueffler;1000207;+49 331 7041-325;0
+1000208;1959-04-26;Thorenz@IDC_entral_Europe_GmbHde;Lynn-Kristin;AOK;574,98;Thorenz;1000208;+49 69 90502-103;0
+1000209;1978-09-14;Turk@Immoilien_Scout_GmbHde;Andreas;AOK;647,44;Turk;1000209;#;0
+1000210;1996-03-07;Saller@Infieon_Technologies_AGde;Florian;AOK;213,75;Saller;1000210;+49 (941) 202 1804;0
+1000212;1993-07-08;Cornu@Immoilien_Scout_GmbHde;Christopher;AOK;558,06;Cornu;1000212;+49 (30) 243 01-1257;0
+1000213;1986-02-22;Koch@Immoilien_Scout_GmbHde;Heico;AOK;148,76;Koch;1000213;#;0
+1000214;1976-12-16;Jähn@Immoilien_Scout_GmbHde;Katrin;AOK;246,44;Jähn;1000214;#;0
+1000215;1950-01-09;Wasik@Immoilien_Scout_GmbHde;Michael;AOK;745,25;Wasik;1000215;+49 (30) 243 01-1252;0
+1000216;1982-12-17;Weiss@Immoilien_Scout_GmbHde;Werner;AOK;230,54;Weiss;1000216;#;0
+1000217;1984-09-20;Paulutz@Infomations_Technology_Engineeringde;Eugen;AOK;394,23;Paulutz;1000217;+49 (6021) 583406;0
+1000218;1976-02-14;Amberg@ING-iBa_AGde;Anja;AOK;1,25;Amberg;1000218;+49 69 27 222 66760;0
+1000219;1982-10-07;Markovic@ING-iBa_AGde;Ljubisav;AOK;508,93;Markovic;1000219;+49 (69) 27222 69106;0
+1000220;1979-09-01;Lingenfelder@ING-iBa_AGde;Thomas;AOK;445,44;Lingenfelder;1000220;+49 69 27 222 66869;0
+1000221;1976-06-29;Edler@InMeiasP_GmbHde;Andreas;AOK;74,24;Edler;1000221;+49 (3302) 559-420;0
+1000222;1961-06-05;Koch@InMeiasP_GmbHde;Andreas;AOK;378,8;Koch;1000222;+49 (3302) 559-420;0
+1000223;1978-10-13;Baumann@ins_onsulting_GmbHde;Markus;AOK;278,99;Baumann;1000223;+49 (6172) 9365 113;0
+1000224;1948-09-20;Beushausen@InteComponentWare_AGde;Volker;AOK;920,14;Beushausen;1000224;+49 6227 385 559;0
+1000225;1958-06-12;Barkowski@intenetcrewde;Robert;AOK;713,59;Barkowski;1000225;+49 (30) 6881838 61;0
+1000226;1984-08-13;Wrba@Intlnd_Softwarede;Peter;AOK;868,4;Wrba;1000226;+49 711-67400681;0
+1000227;1981-03-21;Heller@ipca_GmbHde;Frithjof;AOK;227,85;Heller;1000227;+49 (9131) 7677-29;0
+1000228;1992-05-30;Marschner@ISD__Industrie_Service_fürde;Hans-Peter;AOK;326,34;Marschner;1000228;+49 621 6361 290;0
+1000230;1972-05-04;Schmidt@istaDeutschland_GmbHde;Mathias;AOK;268,04;Schmidt;1000230;+49 201 459-3421;0
+1000231;1989-06-25;Glöckner@IT_Mnagement_Glöcknerde;Lars;AOK;297,59;Glöckner;1000231;+49 6224 993702;0
+1000232;1954-02-09;Simon@IVV_mbHde;Gerald;AOK;566,32;Simon;1000232;+49 (511) 362-1287;0
+1000233;1951-07-16;Hübener@Jungans_Wollversand_GmbH_&_Co_KG.de;Kai;AOK;501,88;Hübener;1000233;+49 241 109-1889;0
+1000234;1990-01-03;Wengenmayr@Kabe_Deutschland_GmbHde;Stefan;AOK;154,11;Wengenmayr;1000234;+49 89 960 10-519;0
+1000235;1948-04-25;Grunwald@KarlKeppler_Maschinenbau_GmbHde;Steffen;AOK;56,98;Grunwald;1000235;+49 (7121) 9776 64;0
+1000236;1956-10-20;Wendtlandt@KIONInformation_Management_Servicesde;Andreas;AOK;150,66;Wendtlandt;1000236;#;0
+1000237;1949-05-17;Steinbruegge@KIONInformation_Management_Servicesde;Udo;AOK;704,51;Steinbruegge;1000237;+49 40 7339 1857;0
+1000238;1958-08-01;den Haan@KLMde;Rob;AOK;490,2;den Haan;1000238;+31 (6) 10110110;0
+1000239;1972-01-04;Schwarz@Kredtanstalt_für_Wiederaufbaude;Rainer;AOK;777,75;Schwarz;1000239;+49 30 20264-5191;0
+1000240;1962-12-13;Heßler@Kredtwerk_Schwäbisch_Hall_AGde;Oliver;AOK;648,13;Heßler;1000240;+49 7914062949;0
+1000241;1959-12-23;Weiner@Kredtwerk_Schwäbisch_Hall_AGde;Wolfgang;AOK;8,44;Weiner;1000241;+49 (791) 4063034;0
+1000242;1991-02-23;Rattmann@Kühn_+_Nagel_(AG_&_Co)_KG.de;Bernd;AOK;397,49;Rattmann;1000242;+49 (40) 30333 3244;0
+1000243;1974-01-16;Gresch@Kühn_+_Nagel_(AG_&_Co)_KG.de;Diemo;AOK;668,9;Gresch;1000243;+49 (40) 30333 3122;0
+1000244;1994-12-04;Sachse@Kühn_+_Nagel_(AG_&_Co)_KG.de;Torsten;AOK;26,73;Sachse;1000244;+49 (40) 30333 1375;0
+1000245;1988-07-10;Fröhling@Kühn_+_Nagel_(AG_&_Co)_KG.de;Udo;AOK;244,64;Fröhling;1000245;+49 (40) 30333 3237;0
+1000246;1991-07-07;Finger@LABOBerlinde;Heike;AOK;549,94;Finger;1000246;+49 (30) 902692272;0
+1000247;1954-04-18;Zurth@LABOBerlinde;Klaudia;AOK;82,78;Zurth;1000247;+49 (30) 902692222;0
+1000248;1977-03-27;Bernd@LABOBerlinde;Slaby;AOK;704,59;Bernd;1000248;+49 30902691214;0
+1000249;1949-06-16;Kastl@Landsamt_für_Steuern_Bayernde;Gerhard;AOK;40,88;Kastl;1000249;+49 911 9913830;0
+1000250;1993-07-08;Gaeßler@Landsbank_Baden-Württembergde;Michael;AOK;920,56;Gaeßler;1000250;+49 (711) 12742271;0
+1000251;1952-03-29;Jahn@Landsbank_Berlinde;Wolfram;AOK;86,47;Jahn;1000251;+49 (30) 86955947;0
+1000252;1948-03-10;Beermann@Landirtschaftliche_Rentenbankde;Svenja;AOK;511,31;Beermann;1000252;+49 69 2107539;0
+1000255;1987-03-25;Schulz@Lighhouse_Technologiesde;Ralf;AOK;76,38;Schulz;1000255;#;0
+1000256;1988-02-18;Wirnharter@Lind_AGde;Richard;AOK;234,31;Wirnharter;1000256;+49 89 7445 2972;0
+1000257;1997-08-07;Spring@Loya_Team_-_Für_verlässliche_Software.de;Udo;AOK;756,43;Spring;1000257;+49 30 44058941;0
+1000258;1991-01-09;Breuer@LUNA_GmbH_-_GB_EITEGde;Frank;AOK;417,99;Breuer;1000258;+49 (40) 6377 8850;0
+1000259;1956-01-13;Hansen@LUNA_GmbH_-_GB_EITEGde;Lars;AOK;560,91;Hansen;1000259;+49 (40) 6377 3269;0
+1000260;1978-07-03;Gudd@Marqard_&_Bahls_AGde;Benjamin;AOK;105,93;Gudd;1000260;#;0
+1000261;1974-12-22;Frikin@Marqard_&_Bahls_AGde;Ian;AOK;815,89;Frikin;1000261;+49 40 370 04-584;0
+1000262;1987-12-08;Büssow@Matrx42_AGde;Uwe;AOK;93,59;Büssow;1000262;+49 (6102) 816 221;0
+1000263;1967-09-17;Wilcken@MCM_losterfrau_Vertriebsges_mbH.de;Lars;AOK;209,94;Wilcken;1000263;+49 221 1652 107;0
+1000264;1995-05-14;Steppich@MCS_abordatensysteme_GmbH_&_Co_KG.de;Annette;AOK;822,28;Steppich;1000264;+49 6123 6840-428;0
+1000265;1966-12-13;Kölle@Medin-_und_Datentechnikde;Christian;AOK;334,13;Kölle;1000265;+49 173 6238425;0
+1000266;1960-04-02;Hönicke@Mentltec®_Ltd.de;Thoralf;AOK;349,77;Hönicke;1000266;+49 (341) 4912 214;0
+1000267;1979-12-01;Kirchner@Merc_KGaAde;Benjamin;AOK;221,78;Kirchner;1000267;#;0
+1000268;1965-08-18;Roth@Merc_KGaAde;Ottmar;AOK;137,41;Roth;1000268;+49 6151 72 6727;0
+1000270;1980-12-09;Zeller@Mess_München_GmbHde;Michael;AOK;674,8;Zeller;1000270;+49 (89) 949 21981;0
+1000271;1990-09-04;Morgenstern@Metr_AGde;Erika;AOK;600,91;Morgenstern;1000271;#;0
+1000272;1989-07-28;Wintergrün@Metr_AGde;Oliver;AOK;207,66;Wintergrün;1000272;#;0
+1000273;1960-02-14;Hamacher@Metr_AGde;Peter;AOK;435,05;Hamacher;1000273;#;0
+1000274;1983-12-18;Gianonatti@Metr_AGde;Stephan;AOK;952,06;Gianonatti;1000274;#;0
+1000275;1965-06-07;Houben@Metr_AGde;Stephan;AOK;887,35;Houben;1000275;#;0
+1000277;1952-02-22;Hagen Drechsler@MGI_ETRO_Group_Informationde;Karl;AOK;915,12;Hagen Drechsler;1000277;+49 (211) 969-5570;0
+1000278;1953-10-16;Hilse@MGIDmbHde;Helmuth;AOK;67,95;Hilse;1000278;+49 341 96273552;0
+1000279;1949-01-22;Burg@MGS_ETRO_Group_Solutionsde;Henrik;AOK;681,85;Burg;1000279;+49 211 6886-3872;0
+1000280;1988-06-30;Schiffer@Michel_Bailey_Associates_GMBHde;Stefanie;AOK;731,29;Schiffer;1000280;+49 211 52391-169;0
+1000281;1994-10-10;Müller@micrTOOL_GmbHde;Mario;AOK;310,15;Müller;1000281;+49 (30) 46708631;0
+1000282;1960-02-18;Seidler@micrTOOL_GmbHde;Olaf;AOK;943,11;Seidler;1000282;+49 (30) 467086-15;0
+1000283;1977-07-14;Leuschel@MID_mbHde;Jürgen;AOK;876,49;Leuschel;1000283;+49 911 96836-71;0
+1000284;1997-06-08;Förster@msg_ystems_agde;Thomas;AOK;304,63;Förster;1000284;+49 89 96101-1306;0
+1000285;1982-10-01;Kobras@NashTechnologies_GmbHde;Julian;AOK;400,59;Kobras;1000285;+49 911 30874 1555;0
+1000287;1962-09-13;Arnold@NashTechnologies_GmbHde;Volker;AOK;454,58;Arnold;1000287;#;0
+1000288;1988-12-18;Bernhardt@nc_sftware_AGde;Klaus;AOK;545,27;Bernhardt;1000288;+49 561 701 61-0;0
+1000289;1951-12-07;Track@ncc_olutions_GmbHde;Jacqueline;AOK;417,86;Track;1000289;+49 (89) 1890436-28;0
+1000290;1984-10-07;Barthel@Nemeschek_CREM_Solutionsde;Joachim;AOK;492,37;Barthel;1000290;+49 (89) 92793-1324;0
+1000291;1968-04-14;Pak@Nemeschek_CREM_Solutionsde;Jürgen;AOK;507,11;Pak;1000291;+49 21 02 91 05-251;0
+1000292;1991-06-15;Tutass@NETRDA_Management_GmbHde;Alexander;AOK;695,73;Tutass;1000292;+49 40 85 17 82-210;0
+1000293;1980-03-27;Steinbach@Citrx_Online_Germany_GmbHde;Peter;AOK;719,95;Steinbach;1000293;+49 (721) 354499-0;0
+1000294;1988-10-31;Werner@No_Lmit_IT_-_Services_Kiel_GbRde;Kai;AOK;316,05;Werner;1000294;+49 (4307) 939-160;0
+1000295;1982-05-17;Wagner@Teleonica_Global_Service_GmbHde;Dietrich;AOK;659,07;Wagner;1000295;+49 89 2442 68 38;0
+1000296;1960-11-01;Wocheslander-Burgmair@Teleonica_Global_Service_GmbHde;Petra;AOK;212,16;Wocheslander-Burgmair;1000296;+49 89 2442 2657;0
+1000298;1993-03-06;Heynck@OBI_mart_Technologies_GmbHde;Uwe;AOK;786,28;Heynck;1000298;+49 (2196) 76-1107;0
+1000299;1998-05-03;Schütz@Osra_Opto_Semiconductors_GmbHde;Robert;AOK;906,85;Schütz;1000299;+49 941 850 2805;0
+1000300;1997-06-09;Greiner@Otto(GmbH_&_Co_KG)de;Andrea;AOK;343,11;Greiner;1000300;+49 40 64 61 1528;0
+1000301;1971-10-21;Noedler@Otto(GmbH_&_Co_KG)de;Jens;AOK;434,36;Noedler;1000301;+49 40 64 61 8580;0
+1000302;1974-05-16;Malessa@Otto(GmbH_&_Co_KG)de;Michael;AOK;640,56;Malessa;1000302;+49 40 64 61 5212;0
+1000303;1985-05-28;Berning@Otto(GmbH_&_Co_KG)de;Uwe;AOK;244,26;Berning;1000303;+49 40 64 61 8832;0
+1000304;1984-03-21;Heuer@P3_cmmunications_GmbHde;Eiko;AOK;40,71;Heuer;1000304;#;0
+1000305;1980-06-14;El-Tahwagi@P3_cmmunications_GmbHde;Moamen;AOK;236,73;El-Tahwagi;1000305;+49 241 9437 309;0
+1000306;1961-11-10;Schmidt@P3_cmmunications_GmbHde;Volker;AOK;497,92;Schmidt;1000306;+49 241 9437 397;0
+1000307;1991-04-13;Dienes@parcT_GmbHde;Bettina;AOK;980,52;Dienes;1000307;+49 221 92 18 41-126;0
+1000308;1995-11-06;Schmidt@parcT_GmbHde;Thorsten;AOK;941,52;Schmidt;1000308;+49 221921841428;0
+1000309;1985-11-20;Herhold@Pareel_GmbHde;Lars;AOK;187,04;Herhold;1000309;+49 (30) 306 85 675;0
+1000310;1960-02-26;Herdt@PASSConsulting_Groupde;Eckhard;AOK;294,31;Herdt;1000310;+49 (6021) 38 81 0;0
+1000311;1971-05-21;Zeilinger@Apolo_-_Optik_Holding_GmbH_&_Co_KG.de;Petra;AOK;511,74;Zeilinger;1000311;+49 (9122) 831-416;0
+1000312;1998-05-26;Kiesewetter@PHOEIX_TESTLAB_GmbHde;Matthias;AOK;928,78;Kiesewetter;1000312;+49 (5235) 9500-17;0
+1000313;1977-12-27;Fischer@Plat_GmbHde;Guenther;AOK;964,86;Fischer;1000313;+49 (40) 23734-0;0
+1000314;1996-06-08;Ruder@Polaion_Software_GmbHde;Achim;AOK;9,18;Ruder;1000314;+49 711 489 9969 19;0
+1000315;1964-05-19;Ziemann@Porshe_AGde;Gitta;AOK;411,56;Ziemann;1000315;+49 (30) 2555 4204;0
+1000316;1958-09-19;Vetter@Porshe_AGde;Stephan;AOK;158,28;Vetter;1000316;+49 71191125026;0
+1000317;1997-12-12;Töwe@PPI_G_Informationstechnologiede;Volker;AOK;736,16;Töwe;1000317;+49 431 88810-3124;0
+1000318;1983-11-13;Sniadach@ppi_edia_GmbHde;Tomasz;AOK;340,82;Sniadach;1000318;+49 (43 1) 53 53-4 48;0
+1000319;1967-08-07;Herzfeld@Procer_&_Gamble_Service_GmbHde;Christopher;AOK;832,9;Herzfeld;1000319;+49 6173302063;0
+1000320;1966-09-16;Leber@Procer_&_Gamble_Service_GmbHde;Stephan;AOK;981,85;Leber;1000320;+49 6173 30 5492;0
+1000321;1974-07-21;Frenzel@PROLGA_GmbHde;Jens;AOK;692,21;Frenzel;1000321;+49 (345) 55 54-363;0
+1000322;1948-12-22;Roof@PSIPNTA_Software_Systems_GmbHde;Jörg;AOK;763,59;Roof;1000322;+49 3028012092;0
+1000323;1998-02-08;Andre@PTV_lanung_Transport_Verkehr_AGde;Dordel;AOK;580,57;Andre;1000323;#;0
+1000324;1976-07-06;Hagemeyer@Pumay_Technologies_AGde;Tim;AOK;685,04;Hagemeyer;1000324;+49 (3471) 346 39-7;0
+1000325;1980-03-25;Fieber@qme_oftware_GmbHde;Florian;AOK;495,85;Fieber;1000325;+49 30 46307-230;0
+1000326;1984-04-12;Pinell@Rechnzentrum_der_Finanzverwaltung_NRWde;Heinz;AOK;757,56;Pinell;1000326;+49 211 4572-2431;0
+1000327;1963-03-17;Bründer@RIB_nformation_Technologies_AGde;Friedbert;AOK;462,33;Bründer;1000327;+49 711 7873-730;0
+1000328;1955-06-11;Wenzel@RighNow_Technologiesde;Frank;AOK;653,12;Wenzel;1000328;+49 (89) 28890-186;0
+1000329;1964-10-14;Robbin@Robbn_&_Wallusch_GmbHde;Christian;AOK;134,57;Robbin;1000329;+49 (212) 2494150;0
+1000330;1993-02-21;Weiss@Roch_Diagnostics_GmbHde;Arnold;AOK;345,92;Weiss;1000330;+49 621 759 2586;0
+1000331;1952-07-02;Eickel@ROHD_&_SCHWARZ_GmbH_&_Co_KG.de;Simon;AOK;839,16;Eickel;1000331;+49 (89) 4129-12183;0
+1000333;1954-04-26;Wernsdorf@ROHD_&_SCHWARZ_SIT_GmbHde;Ralph;AOK;30,44;Wernsdorf;1000333;+49 (30) 65884-280;0
+1000334;1964-07-23;Kopp@RWE_upply_&_Trading_GmbHde;Jonas;AOK;304,85;Kopp;1000334;+49 201 12-21238;0
+1000335;1978-11-22;Hofmeier@SAG_eutschland_GmbHde;Anton;AOK;859,39;Hofmeier;1000335;+49 89 54742-203;0
+1000336;1998-03-03;Jank@Samhmmer_AGde;Jan-Erik;AOK;248,3;Jank;1000336;+49 961 38939 616;0
+1000337;1977-09-09;Bergen@Sanoi~Aventis_Deutschland_GmbHde;Andreas;AOK;929,77;Bergen;1000337;+49 3025752149;0
+1000338;1974-08-04;Anton@Sanoi~Aventis_Deutschland_GmbHde;Matthias;AOK;709,99;Anton;1000338;+49 (30) 25752132;0
+1000339;1956-05-26;Adlon@SAP_Gde;Joachim;AOK;764,97;Adlon;1000339;+49 (6227) 7-68480;0
+1000340;1997-01-27;Helfen@SAP_Gde;Markus;AOK;380,16;Helfen;1000340;+49 6894 981-1181;0
+1000341;1961-12-05;Schwittay@SAP_Gde;Martin;AOK;231,12;Schwittay;1000341;+49 6251 708 2490;0
+1000342;1987-05-25;Scheer@SAP_Kde;Michael;AOK;578,06;Scheer;1000342;+49 (69) 6630 8073;0
+1000343;1994-05-13;Vogel@Sartrius_Mechatronics_AGde;Martin;AOK;747,61;Vogel;1000343;+49 551 308 3936;0
+1000344;1988-12-31;Gowasch@Scheing_GmbH_und_Co_Produktions_KG.de;Wolfgang;AOK;848,07;Gowasch;1000344;+49 (3643) 433-1610;0
+1000345;1956-09-01;Bielefeld@Schidler_Aufzüge_und_Fahrtreppen_GmbHde;Dietmar;AOK;933,57;Bielefeld;1000345;+49 3070292319;0
+1000346;1976-06-15;Lippert@Schmtt_Stumpf_Frühauf_und_Partnerde;Dirk;AOK;612,09;Lippert;1000346;+49 3044300690;0
+1000347;1977-11-14;von Komorowski@Schüo_International_KGde;Matthias;AOK;942,94;von Komorowski;1000347;+49 521 783 7894;0
+1000348;1965-11-17;Hirche@SCREN_-_TRAINING_-_BERATUNGde;Andreas;AOK;975,45;Hirche;1000348;+49 (5361) 2985-100;0
+1000349;1976-09-19;Wachter@SEW-URODRIVE_GmbH_&_Co_KGde;Gregor;AOK;453,24;Wachter;1000349;#;0
+1000350;1962-09-09;Baumann@SEW-URODRIVE_GmbH_&_Co_KGde;Martin;AOK;310;Baumann;1000350;+49 7251 755512;0
+1000351;1952-05-12;Wolff@SEW-URODRIVE_GmbH_&_Co_KGde;Martin;AOK;625,63;Wolff;1000351;+49 (7251) 75-3626;0
+1000352;1990-04-24;Goetz@Siemns_AGde;Helmut;AOK;141,78;Goetz;1000352;+49 9131 7-35563;0
+1000353;1985-09-09;Zimmermann@Siemns_AGde;Rolf;AOK;650,64;Zimmermann;1000353;+49 (721) 595 2745;0
+1000354;1990-10-05;Landowsky@softenture_IT_Solutions_GbRde;Anton;AOK;302,63;Landowsky;1000354;+49 30 850 73 9530;0
+1000355;1958-07-01;Karamelski@Softare_AGde;Dobromir;AOK;577,51;Karamelski;1000355;+49 (6151) 92-1079;0
+1000356;1997-01-13;Hildebrandt@Softare_AGde;Mandy;AOK;498,84;Hildebrandt;1000356;+49 6151 92-2591;0
+1000357;1971-01-27;Stelzer@Softare_AGde;Thomas;AOK;195,75;Stelzer;1000357;#;0
+1000358;1980-06-05;Heller@Softare_Process_Consultingde;Gerald;AOK;518,28;Heller;1000358;+49 7032 951971;0
+1000359;1964-04-07;Birk@SoftareProcess.Management.de;Andreas;AOK;398,94;Birk;1000359;+49 711 6645 324;0
+1000360;1956-04-26;Bleil@SonyEurope_GmbHde;Dieter;AOK;389,06;Bleil;1000360;+49 3025755318;0
+1000361;1968-03-06;Ginz@STAD_Arzneimittel_AGde;Lothar;AOK;762,62;Ginz;1000361;+49 (6101) 603-552;0
+1000362;1970-07-15;Rosenberg@StarAlliance_Services_GmbHde;Lars;AOK;359,23;Rosenberg;1000362;+49 69 963 75 146;0
+1000363;1981-04-26;Götz@Steurbevollmächtigterde;Peter;AOK;571,34;Götz;1000363;+49 9336 602;0
+1000364;1969-06-15;Büchner@STQS-_Softwaretest_undde;Adrian;AOK;128,44;Büchner;1000364;+49 (3581) 767058;0
+1000365;1954-12-08;Zechmeister@STRAEC_Biomedical_Systems_AGde;Gerald;AOK;274,69;Zechmeister;1000365;+49 (7082) 7916 467;0
+1000366;1996-07-04;Stangenberg@Stryer_Leibinger_GmbH_&_Co_KG.de;Martin;AOK;803,91;Stangenberg;1000366;+49 (49) 761 45 12284;0
+1000367;1969-12-13;Aschenbrenner-Scheibe@Stryer_Leibinger_GmbH_&_Co_KG.de;Richard;AOK;732,4;Aschenbrenner-Scheibe;1000367;+49 (761) 4512469;0
+1000368;1959-02-26;Max@studVZ_Ltd.de;Horvath;AOK;511,17;Max;1000368;#;0
+1000369;1974-05-17;Fassel@Systmtechnik_GmbH_&_Co_KG.de;Anemone;AOK;412,16;Fassel;1000369;+49 (23 39) 91 82-711;0
+1000370;1958-10-28;Battiato@Systmtechnik_GmbH_&_Co_KG.de;Stefan;AOK;906,45;Battiato;1000370;+49 (2339) 91 82-769;0
+1000371;1967-08-26;Görig@tapcn_GmbHde;Friedhelm;AOK;653,44;Görig;1000371;+49 71416481975;0
+1000372;1990-07-26;Schäfer@TechData_GmbH_&_Co_OHG.de;Kathrin;AOK;205,25;Schäfer;1000372;+49 (89) 4700-3092;0
+1000373;1998-06-26;Matthaei@TecDc_Informations_System_GmbHde;Helmut;AOK;681,17;Matthaei;1000373;#;0
+1000374;1975-01-13;Wollschläger@TecDc_Informations_System_GmbHde;Jörg;AOK;434,27;Wollschläger;1000374;+49 (221) 6600-258;0
